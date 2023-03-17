@@ -3,15 +3,19 @@
 ## Overview and Origin
 
 * What is the name of the company?
+
 Block Inc. (formally Square inc.) is a well-known blockchain consulting and investment company. The company has quickly become one of the most prominent players in the blockchain industry, with a wide range of businesses within its portfolio. Square, Cash app, Spiral and Tidal make up this financial conglomerate. 
 
 * When was the company incorporated?
+
 Block Inc was incorporated in February 2009. 
 
 * Who are the founders of the company?
+
 Block inc. was founded by Jack Dorsey and Jim McKelvey in Chicago, Illinois. 
 
 * How did the idea for the company (or project) come about?
+
 The idea for Block Inc came about when a group of tech enthusiasts and blockchain experts noticed the growing interest in cryptocurrencies, but also recognized that the accessibility and usability of these digital assets was still very limited. They saw that many people were interested in investing in cryptocurrencies, but were hesitant due to the complexity of buying, storing and managing these assets.
 
 They understood that blockchain technology had the potential to revolutionize the way financial transactions were conducted, but also realized that the average person lacked the technical knowledge to fully leverage these benefits. They saw an opportunity to bridge this gap and make cryptocurrencies more accessible to the general public.
@@ -23,6 +27,7 @@ Block Inc's founders were determined to make the platform not only accessible bu
 The result was a game-changing platform that bridged the gap between traditional finance and the digital world, making it easier for people to participate in the growing cryptocurrency market. Today, Block Inc continues to innovate and expand its offerings, building on the founding vision of accessibility, usability, and security for all.
 
 * How is the company funded? How much funding have they received?
+
 Block Inc funds its operations through various channels. Firstly, Block Inc has raised a significant amount of funds through venture capital investments. The company has also received funding from angel investors and seed investments. Secondly, the company generates revenue by selling their products and services. Block Inc provides their blockchain platform, developer tools, and consulting services to their clients. They earn a profit by charging fees for their products and services. Finally, Block Inc also generates revenue by investing in cryptocurrency and related assets. Overall, Block Inc is funded through a combination of venture capital, sales revenue, and investments. 
 
 The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group, BlackRock, T. Rowe Price. Block inc. has received $601.2M USD in 10 funding rounds, from 43 investors. Their most recent funding round was on May 5, 2021 from a Post-IPO Equity round. 
@@ -30,6 +35,7 @@ The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group,
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+
 Block Inc aims to solve the current financial problem of friction in cross-border payments and reduce dependence on intermediaries. Block Inc is striving to provide a platform that allows individuals and institutions to transact globally with secure, fast, and low-cost payments.
 
 The problem of high transaction costs and delays in cross-border payments has been a long-standing issue faced by many individuals and organizations. The traditional banking system's cross-border payments are costly, inefficient, and time-consuming, especially for developing countries where financial inclusion is a significant problem. As a result, such countries rely heavily on costly intermediaries like money transfer operators and foreign exchange providers.
