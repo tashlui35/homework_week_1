@@ -2,19 +2,19 @@
 
 ## Overview and Origin
 
-* What is the name of the company?
+### What is the name of the company?
 
 Block Inc. (formally Square inc.) is a well-known blockchain consulting and investment company. The company has quickly become one of the most prominent players in the blockchain industry, with a wide range of businesses within its portfolio. Square, Cash app, Spiral and Tidal make up this financial conglomerate. 
 
-* When was the company incorporated?
+### When was the company incorporated?
 
 Block Inc was incorporated in February 2009. 
 
-* Who are the founders of the company?
+### Who are the founders of the company?
 
 Block inc. was founded by Jack Dorsey and Jim McKelvey in Chicago, Illinois. 
 
-* How did the idea for the company (or project) come about?
+### How did the idea for the company (or project) come about?
 
 The idea for Block Inc came about when a group of tech enthusiasts and blockchain experts noticed the growing interest in cryptocurrencies, but also recognized that the accessibility and usability of these digital assets was still very limited. They saw that many people were interested in investing in cryptocurrencies, but were hesitant due to the complexity of buying, storing and managing these assets.
 
@@ -26,7 +26,7 @@ Block Inc's founders were determined to make the platform not only accessible bu
 
 The result was a game-changing platform that bridged the gap between traditional finance and the digital world, making it easier for people to participate in the growing cryptocurrency market. Today, Block Inc continues to innovate and expand its offerings, building on the founding vision of accessibility, usability, and security for all.
 
-* How is the company funded? How much funding have they received?
+### How is the company funded? How much funding have they received?
 
 Block Inc funds its operations through various channels. Firstly, Block Inc has raised a significant amount of funds through venture capital investments. The company has also received funding from angel investors and seed investments. Secondly, the company generates revenue by selling their products and services. Block Inc provides their blockchain platform, developer tools, and consulting services to their clients. They earn a profit by charging fees for their products and services. Finally, Block Inc also generates revenue by investing in cryptocurrency and related assets. Overall, Block Inc is funded through a combination of venture capital, sales revenue, and investments. 
 
@@ -34,7 +34,7 @@ The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group,
 
 ## Business Activities
 
-* What specific financial problem is the company or project trying to solve?
+### What specific financial problem is the company or project trying to solve?
 
 Block Inc aims to solve the current financial problem of friction in cross-border payments and reduce dependence on intermediaries. Block Inc is striving to provide a platform that allows individuals and institutions to transact globally with secure, fast, and low-cost payments.
 
@@ -52,40 +52,40 @@ Another challenge faced by businesses when transacting globally is the lack of t
 
 In conclusion, Block Inc is addressing the financial sector's inefficiencies, which have been long-standing problems of high transaction costs, delays, and a lack of transparency in cross-border payments. The company aims to create a borderless financial ecosystem by leveraging blockchain technology and offering a platform that allows individuals and institutions to transact globally without intermediaries with fast, secure, and low-cost payments. The platform also provides a stable digital asset backed by fiat currencies that provides an alternative to traditional currencies, addressing the problem of volatility and instability. Additionally, Block Inc's platform is designed to address the issue of financial inclusion by making low-cost and accessible payment infrastructure available to individuals and small businesses in developing countries. Overall, Block Inc is offering a much-needed solution to the financial sector, which is essential for global trade and economic growth.
 
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
+### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
+### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
 
 ## Landscape
 
-* What domain of the financial industry is the company in?
+### What domain of the financial industry is the company in?
 
-* What have been the major trends and innovations of this domain over the last 5–10 years?
+### What have been the major trends and innovations of this domain over the last 5–10 years?
 
-* What are the other major companies in this domain?
+### What are the other major companies in this domain?
 
 
 ## Results
 
-* What has been the business impact of this company so far?
+### What has been the business impact of this company so far?
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+### What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
-* How is your company performing relative to competitors in the same domain?
+### How is your company performing relative to competitors in the same domain?
 
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
-* Why do you think that offering this product or service would benefit the company?
+### Why do you think that offering this product or service would benefit the company?
 
-* What technologies would this additional product or service utilise?
+### What technologies would this additional product or service utilise?
 
-* Why are these technologies appropriate for your solution?
+### Why are these technologies appropriate for your solution?
 
 https://block.xyz/
 https://investors.block.xyz/overview/default.aspx
