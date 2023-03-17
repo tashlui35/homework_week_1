@@ -54,6 +54,20 @@ In conclusion, Block Inc is addressing the financial sector's inefficiencies, wh
 
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
+Block Inc.'s intended customer is any individual or organization interested in cryptocurrency and blockchain technology. The company's primary goal is to make it easier for people to access, invest and use cryptocurrencies by developing user-friendly applications and platforms.
+
+Block Inc. aims to create a seamless experience for its customers by bridging the gap between the traditional financial world and the cryptocurrency industry. Therefore, their intended customers include individuals who want to send and receive cryptocurrency payments quickly and securely, as well as traders and investors looking to buy and sell digital assets in a safe and efficient manner.
+
+Additionally, Block Inc. targets businesses that are interested in integrating blockchain technology into their operations. The company provides blockchain consulting services to help businesses understand how blockchain can streamline their processes, reduce costs, and improve security.
+
+Block Inc.'s customer base also includes software developers who are building decentralized applications using blockchain technology. The company offers developer tools and protocols that enable the creation of decentralized apps with streamlined processes and smart contract capabilities. 
+
+However, it can be assumed that the market size of Block Inc.'s customer base relies on the company's target audience and their buying capacity.
+
+Block Inc. is a blockchain technology company that provides enterprise-level solutions for businesses in various industries. Therefore, its customer base could include large multinational corporations, mid-sized companies, and small businesses. The size of the market can vary widely depending on the types of industries Block Inc. is targeting and the variety of products and services they provide.
+
+The market size of Block Inc.'s customers can also be influenced by the competition in the blockchain technology industry. With the increasing popularity of blockchain technology, many other companies are offering similar solutions. Therefore, Block Inc.'s marketing strategies and customer outreach efforts can also affect their market size.
+
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
@@ -95,5 +109,9 @@ In conclusion, Block Inc is addressing the financial sector's inefficiencies, wh
 * https://www.cnbc.com/2022/02/24/how-jack-dorsey-grew-square-from-start-up-to-payments-powerhouse.html
 * https://www.investopedia.com/square-top-shareholders-5094562#:~:text=The%20top%20shareholders%20of%20Block,roughly%2034%25%20of%20the%20company.
 * https://www.crunchbase.com/organization/square
+* https://producthabits.com/how-square-became-a-30-billion-company-by-reimagining-payments/
+* https://www.essay48.com/marketing-strategy/6149-Square-Inc-Marketing-Strategy
+* https://seekingalpha.com/article/4566550-block-incs-two-sides-of-the-same-coin-cash-app-and-square
+
 
 
