@@ -87,6 +87,8 @@ In conclusion, Block Inc is addressing the financial sector's inefficiencies, wh
 
 ### Why are these technologies appropriate for your solution?
 
+
+## Links
 * https://block.xyz/
 * https://investors.block.xyz/overview/default.aspx
 * https://www.investopedia.com/companies-owned-by-square-5092655#:~:text=Block%20Inc.,Jack%20Dorsey%20and%20Jim%20McKelvey.
