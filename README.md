@@ -87,10 +87,11 @@ In conclusion, Block Inc is addressing the financial sector's inefficiencies, wh
 
 ### Why are these technologies appropriate for your solution?
 
-https://block.xyz/
-https://investors.block.xyz/overview/default.aspx
-https://www.investopedia.com/companies-owned-by-square-5092655#:~:text=Block%20Inc.,Jack%20Dorsey%20and%20Jim%20McKelvey.
-https://www.cnbc.com/2022/02/24/how-jack-dorsey-grew-square-from-start-up-to-payments-powerhouse.html
-https://www.investopedia.com/square-top-shareholders-5094562#:~:text=The%20top%20shareholders%20of%20Block,roughly%2034%25%20of%20the%20company.
-https://www.crunchbase.com/organization/square
+* https://block.xyz/
+* https://investors.block.xyz/overview/default.aspx
+* https://www.investopedia.com/companies-owned-by-square-5092655#:~:text=Block%20Inc.,Jack%20Dorsey%20and%20Jim%20McKelvey.
+* https://www.cnbc.com/2022/02/24/how-jack-dorsey-grew-square-from-start-up-to-payments-powerhouse.html
+* https://www.investopedia.com/square-top-shareholders-5094562#:~:text=The%20top%20shareholders%20of%20Block,roughly%2034%25%20of%20the%20company.
+* https://www.crunchbase.com/organization/square
+
 
