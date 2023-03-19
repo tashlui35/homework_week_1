@@ -37,7 +37,7 @@ The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group,
 
 ## Business Activities
 <p align="center">
-  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
 </p>
 
 ### What specific financial problem is the company or project trying to solve?
@@ -52,8 +52,6 @@ Another problem Block Inc is trying to solve is the high volatility and instabil
 
 Block Inc is also addressing the problem of financial exclusion by providing a low-cost and accessible payment infrastructure that enables individuals and small businesses in developing countries to participate actively in global trade. Financial inclusion is a critical problem as over 1.7 billion adults globally are unbanked, making it difficult for them to participate in the global economy.
 
-Another challenge faced by businesses when transacting globally is the lack of transparency and traceability of cross-border payments. Block Inc's platform offers users complete transparency and traceability, providing a real-time view of the payment process. This information is essential for businesses as it helps them track their transactions and reconcile their accounts quickly.
-
 ### Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 
 Block Inc.'s intended customer is any individual or organization interested in cryptocurrency and blockchain technology. The company's primary goal is to make it easier for people to access, invest and use cryptocurrencies by developing user-friendly applications and platforms.
@@ -64,13 +62,11 @@ Additionally, Block Inc. targets businesses that are interested in integrating b
 
 Block Inc.'s customer base also includes software developers who are building decentralized applications using blockchain technology. The company offers developer tools and protocols that enable the creation of decentralized apps with streamlined processes and smart contract capabilities. 
 
-However, it can be assumed that the market size of Block Inc.'s customer base relies on the company's target audience and their buying capacity.
-
-Block Inc. is a blockchain technology company that provides enterprise-level solutions for businesses in various industries. Therefore, its customer base could include large multinational corporations, mid-sized companies, and small businesses. The size of the market can vary widely depending on the types of industries Block Inc. is targeting and the variety of products and services they provide.
+However, it can be assumed that the market size of Block Inc.'s customer base relies on the company's target audience and their buying capacity. Block Inc. is a blockchain technology company that provides enterprise-level solutions for businesses in various industries. Therefore, its customer base could include large multinational corporations, mid-sized companies, and small businesses. The size of the market can vary widely depending on the types of industries Block Inc. is targeting and the variety of products and services they provide.
 
 The market size of Block Inc.'s customers can also be influenced by the competition in the blockchain technology industry. With the increasing popularity of blockchain technology, many other companies are offering similar solutions. Therefore, Block Inc.'s marketing strategies and customer outreach efforts can also affect their market size.
 
-### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
+### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?) 
 
 While many of its competitors offer blockchain-based solutions, Block Inc has developed a blockchain-based platform that combines the benefits of blockchain technology with cloud computing. This allows for faster, more secure, and more versatile solutions than what its competitors can offer.
 
@@ -79,7 +75,6 @@ One of the key advantages of Block Inc's platform is its scalability. The platfo
 Another advantage of Block Inc's platform is its reliability. The platform is built using the latest technology and is designed to be highly resistant to hacking and other cyber threats. This ensures that businesses can rely on the platform to keep their data safe and secure at all times.
 
 Finally, Block Inc's platform is highly customizable and very easy to use. The platform can be easily tailored to meet the specific needs of businesses in different industries as it comes with a user-friendly interface that makes it easy for businesses to get started using the platform. This means that businesses can start using the platform quickly and easily, without the need for extensive training or technical expertise and makes it an ideal solution for businesses that need highly specialized solutions that are not available from off-the-shelf software.
-
 
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
@@ -104,6 +99,9 @@ Block inc. uses a variety of technologies to power its platform and provide its 
 
 
 ## Landscape
+<p align= “center”>
+	<img src= https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-promos/infocus-payments-trends-mobile-hand-promo.jpg height= “300px”>
+</p>
 
 ### What domain of the financial industry is the company in?
 
@@ -134,11 +132,11 @@ The financial services and digital payments industry has undergone significant t
 
 The other major companies in this domain include:
 <ol>
-	<li> JP Morgan Chase & Co. - Revenue [US$119.54 Billion] </li>
-	<li>Visa Inc. - Revenue [US$21.85 Billion] </li>
-<li>PayPal Holdings Inc. - Revenue [US$21.45 Billion] </li>
-<li>Mastercard Incorporated - Revenue [US$15.3 Billion] </li>
-<li>Fiserv Inc. - Revenue [US$14.85 Billion] </li>
+  <li> JP Morgan Chase & Co. - Revenue [US$119.54 Billion] </li>
+  <li>Visa Inc. - Revenue [US$21.85 Billion] </li>
+  <li>PayPal Holdings Inc. - Revenue [US$21.45 Billion] </li>
+  <li>Mastercard Incorporated - Revenue [US$15.3 Billion] </li>
+  <li>Fiserv Inc. - Revenue [US$14.85 Billion] </li>
 </ol>
 
 
