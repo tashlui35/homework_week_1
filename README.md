@@ -1,6 +1,7 @@
 # Square Case Study
-<img align="center" height="300px" src="https://block.xyz/images/shared/social-share.png">
-
+<p align="center">
+<img height="300px" src="https://block.xyz/images/shared/social-share.png">
+</p>
 ## Overview and Origin
 
 ### What is the name of the company?
