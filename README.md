@@ -1,5 +1,5 @@
 # Square Case Study
-![Image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FBlock%2C_Inc.&psig=AOvVaw2K2F1s9j_kAl8KlhLMGXK0&ust=1679292762901000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICl5Zar5_0CFQAAAAAdAAAAABAE)
+![Image](https://block.xyz/images/shared/social-share.png)
 
 ## Overview and Origin
 
