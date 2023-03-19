@@ -134,12 +134,13 @@ The financial services and digital payments industry has undergone significant t
 
 The other major companies in this domain include:
 <ol>
-	<ul> JP Morgan Chase & Co. - Revenue [US$119.54 Billion] </ul>
-	<ul>Visa Inc. - Revenue [US$21.85 Billion] </ul>
-<ul>PayPal Holdings Inc. - Revenue [US$21.45 Billion] </ul>
-<ul>Mastercard Incorporated - Revenue [US$15.3 Billion] </ul>
-<ul>Fiserv Inc. - Revenue [US$14.85 Billion] </ul>
+	<li> JP Morgan Chase & Co. - Revenue [US$119.54 Billion] </li>
+	<li>Visa Inc. - Revenue [US$21.85 Billion] </li>
+<li>PayPal Holdings Inc. - Revenue [US$21.45 Billion] </li>
+<li>Mastercard Incorporated - Revenue [US$15.3 Billion] </li>
+<li>Fiserv Inc. - Revenue [US$14.85 Billion] </li>
 </ol>
+
 
 ## Results
 
