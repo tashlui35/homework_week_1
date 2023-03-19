@@ -81,6 +81,8 @@ Another advantage of Block Inc's platform is its reliability. The platform is bu
 
 Block Inc's platform is also very easy to use. The company has developed a user-friendly interface that makes it easy for businesses to get started using the platform. This means that businesses can start using the platform quickly and easily, without the need for extensive training or technical expertise.
 
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
+
 Finally, Block Inc's platform is highly customizable. The platform can be easily tailored to meet the specific needs of businesses in different industries. This makes it an ideal solution for businesses that need highly specialized solutions that are not available from off-the-shelf software.
 
 Overall, Block Inc's unique combination of blockchain technology and cloud computing, along with its focus on scalability, reliability, ease of use, and customization, sets it apart from its competitors and makes it a top choice for businesses looking for cutting-edge solutions.
