@@ -143,7 +143,7 @@ The other major companies in this domain include:
 
 ## Results
 <p align="center">
-  <img height="300px" src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F400200b2-659d-4666-9f25-44b9cf04acfb_1774x542.png">
+  <img height="300px" src="https://www.moneymorning.com.au/wp-content/uploads/2022/05/ASX-SQ2-stock-prices-2022.png">
 </p>
 
 ### What has been the business impact of this company so far?
