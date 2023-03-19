@@ -101,7 +101,7 @@ Block inc. uses a variety of technologies to power its platform and provide its 
 ## Landscape
 
 <p align= “center”>
-	<img height=“300px” src= https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-promos/infocus-payments-trends-mobile-hand-promo.jpg">
+	<img height=“300px” src= "https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-promos/infocus-payments-trends-mobile-hand-promo.jpg">
 </p>
 
 ### What domain of the financial industry is the company in?
