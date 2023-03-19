@@ -7,6 +7,8 @@
 
 Block Inc. (formally Square inc.) is a well-known blockchain consulting and investment company. The company has quickly become one of the most prominent players in the blockchain industry, with a wide range of businesses within its portfolio. Square, Cash app, Spiral and Tidal make up this financial conglomerate. 
 
+![Image](https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihf_iRYwr_G4/v0/1200x-1.jpg)
+
 ### When was the company incorporated?
 
 Block Inc was incorporated in February 2009. 
