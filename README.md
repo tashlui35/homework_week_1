@@ -15,7 +15,7 @@ Block Inc was incorporated in February 2009.
 
 Block inc. was founded by Jack Dorsey and Jim McKelvey in Chicago, Illinois. 
 
-<img src="https://images.wsj.net/im-189675/?width=860&height=573" height="400">
+<img src="https://images.wsj.net/im-189675/?width=860&height=573" height="200px">
 
 ### How did the idea for the company (or project) come about?
 
