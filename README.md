@@ -7,7 +7,7 @@
 
 Block Inc. (formally Square inc.) is a well-known blockchain consulting and investment company. The company has quickly become one of the most prominent players in the blockchain industry, with a wide range of businesses within its portfolio. Square, Cash app, Spiral and Tidal make up this financial conglomerate. 
 
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihf_iRYwr_G4/v0/1200x-1.jpg" height="600px">
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihf_iRYwr_G4/v0/1200x-1.jpg" height="400px">
 
 ### When was the company incorporated?
 
@@ -17,7 +17,7 @@ Block Inc was incorporated in February 2009.
 
 Block inc. was founded by Jack Dorsey and Jim McKelvey in Chicago, Illinois. 
 
-![Image]( https://images.wsj.net/im-189675/?width=860&height=573)
+<img src="https://images.wsj.net/im-189675/?width=860&height=573" height="400">
 
 ### How did the idea for the company (or project) come about?
 
