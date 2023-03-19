@@ -142,6 +142,9 @@ The other major companies in this domain include:
 
 
 ## Results
+<p align="center">
+  <img height="300px" src=" https://www.moneymorning.com.au/wp-content/uploads/2022/05/ASX-SQ2-stock-prices-2022.png">
+</p>
 
 ### What has been the business impact of this company so far?
 
@@ -174,10 +177,6 @@ Block inc.’s performance metrics are as follows (USD):
 ### How is your company performing relative to competitors in the same domain?
 
 Block Inc reported a revenue increase by 14.03% in comparison to their competitor’s average revenue growth of 9.86%. They also improved their market share to approximately 5.22% based of their total revenue. However, Block inc.’s square share dropped by 45.13% in comparison to competitors 15.17%, signifying that the company’s growth may be slowing. 
-
-<p align="center">
-  <img height="300px" src=" https://www.moneymorning.com.au/wp-content/uploads/2022/05/ASX-SQ2-stock-prices-2022.png">
-</p>
 
 ## Recommendations
 
