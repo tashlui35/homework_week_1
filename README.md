@@ -35,9 +35,9 @@ Block Inc funds its operations through various channels. Firstly, Block Inc has 
 The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group, BlackRock, T. Rowe Price. Block inc. has received $601.2M USD in 10 funding rounds, from 43 investors. Their most recent funding round was on May 5, 2021 from a Post-IPO Equity round. 
 
 ## Business Activities
-
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
-
+<p align="center">
+  <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
+</p>
 ### What specific financial problem is the company or project trying to solve?
 
 Block Inc aims to solve the current financial problem of friction in cross-border payments and reduce dependence on intermediaries. Block Inc is striving to provide a platform that allows individuals and institutions to transact globally with secure, fast, and low-cost payments.
