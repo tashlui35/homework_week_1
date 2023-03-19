@@ -35,6 +35,8 @@ The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group,
 
 ## Business Activities
 
+<img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_180152187_48132.jpg" height="300px">
+
 ### What specific financial problem is the company or project trying to solve?
 
 Block Inc aims to solve the current financial problem of friction in cross-border payments and reduce dependence on intermediaries. Block Inc is striving to provide a platform that allows individuals and institutions to transact globally with secure, fast, and low-cost payments.
