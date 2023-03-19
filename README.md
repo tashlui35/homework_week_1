@@ -186,6 +186,22 @@ Block Inc reported a revenue increase by 14.03% in comparison to their competito
 
 ### If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+Some suggestions for products or services that could be valuable for Block Inc. include:
+
+<ol>
+<li>
+Cross-border Payments: There is a growing need for affordable and efficient cross-border payment solutions, particularly in emerging markets. Block Inc could explore the development of cross-border payment capabilities for Cash App that leverage blockchain technology to enable fast and secure transactions as they are only available in the US and UK. Current examples for this include Wise, Revolut, Remitly, OFX and Western Union. Wise is seen as a good option for cross-border payments as there are low transparent fees and have a mid-market exchange rate. It is also fully regulated by global regulatory bodies around the world. It can be used for one off or recurring international payments which could be used for personal or business customers.
+</li>
+<li>
+Financial Education: There is a significant need for financial education and literacy, particularly in emerging markets. Block Inc could develop educational resources that help users to better understand financial concepts and manage their finances effectively. Current examples of this include World of Money, Zogo, Investmate and Penny | Master Your Money. World of Money is a financial literacy app which has content for users of all ages. It consists of video modules with quizzes at the end of each.
+</li>
+<li>
+Blockchain-Based Identity Verification: Identity verification is a critical component of many financial transactions, but traditional verification methods can be slow, expensive, and prone to fraud. Block Inc could develop a blockchain-based identity verification solution that provides a secure, fast, and cost-effective way to verify user identities. This could be particularly valuable in markets where identity verification is a major challenge. A current example of this being used is by Consensys. This can be done through using decentralised identifiers, identity management and embedded encryption. Users create a digital identity through the use of personal information that has been created through their actions online. This may be linked to a device’s IP address or data points such as medical history, date of birth or usernames and passwords. A decentralised identifier is a pseudo-anonymous identifier which is secured by a private key. One person is able to have more than one decentralised identifier but only those who own the private key can prove they own their identity.
+</li>
+</ol>
+
+Overall, these are just a few suggestions for products or services that could be valuable for a financial services and digital payments company like Block Inc. The specific offerings that would be most valuable for Block Inc will depend on a range of factors, including market demand, competitive landscape, and the company's own strengths and capabilities.
+
 ### Why do you think that offering this product or service would benefit the company?
 
 ### What technologies would this additional product or service utilise?
