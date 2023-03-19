@@ -1,5 +1,5 @@
 # Square Case Study
-<img src="https://block.xyz/images/shared/social-share.png" height="300px" float=center >
+<img src="https://block.xyz/images/shared/social-share.png" height="300px" align="center" >
 
 ## Overview and Origin
 
