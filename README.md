@@ -2,6 +2,7 @@
 <p align="center">
 <img height="300px" src="https://block.xyz/images/shared/social-share.png">
 </p>
+
 ## Overview and Origin
 
 ### What is the name of the company?
@@ -38,6 +39,7 @@ The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group,
 <p align="center">
   <img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
 </p>
+
 ### What specific financial problem is the company or project trying to solve?
 
 Block Inc aims to solve the current financial problem of friction in cross-border payments and reduce dependence on intermediaries. Block Inc is striving to provide a platform that allows individuals and institutions to transact globally with secure, fast, and low-cost payments.
