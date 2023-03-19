@@ -35,7 +35,7 @@ The top investors of Block inc. are Jack Dorsey, Morgan Stanley, Vanguard Group,
 
 ## Business Activities
 
-<img src="https://www.incimages.com/uploaded_files/image/1920x1080/getty_180152187_48132.jpg" height="300px">
+<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
 
 ### What specific financial problem is the company or project trying to solve?
 
@@ -78,8 +78,6 @@ One of the key advantages of Block Inc's platform is its scalability. The platfo
 Another advantage of Block Inc's platform is its reliability. The platform is built using the latest technology and is designed to be highly resistant to hacking and other cyber threats. This ensures that businesses can rely on the platform to keep their data safe and secure at all times.
 
 Block Inc's platform is also very easy to use. The company has developed a user-friendly interface that makes it easy for businesses to get started using the platform. This means that businesses can start using the platform quickly and easily, without the need for extensive training or technical expertise.
-
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic_uVpQ0heQw/v1/1200x-1.jpg" height="300px">
 
 Finally, Block Inc's platform is highly customizable. The platform can be easily tailored to meet the specific needs of businesses in different industries. This makes it an ideal solution for businesses that need highly specialized solutions that are not available from off-the-shelf software.
 
