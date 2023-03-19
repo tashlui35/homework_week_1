@@ -101,7 +101,7 @@ Block inc. uses a variety of technologies to power its platform and provide its 
 ## Landscape
 
 <p align="center">
-<img height="300px" src="https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-promos/infocus-payments-trends-mobile-hand-promo.jpg">
+  <img height="300px" src="https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-promos/infocus-payments-trends-mobile-hand-promo.jpg">
 </p>
 
 ### What domain of the financial industry is the company in?
@@ -171,6 +171,12 @@ The other major companies in this domain include:
 * https://producthabits.com/how-square-became-a-30-billion-company-by-reimagining-payments/
 * https://www.essay48.com/marketing-strategy/6149-Square-Inc-Marketing-Strategy
 * https://seekingalpha.com/article/4566550-block-incs-two-sides-of-the-same-coin-cash-app-and-square
+* https://www.forbes.com/advisor/business/software/square-competitors/\
+* https://seekingalpha.com/article/4404185-squares-highly-scalable-platform-means-margin-expansion
+* https://squareup.com/help/au/en/article/3796-privacy-and-security
+* https://fitsmallbusiness.com/what-is-square/
+* https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html
+* https://www.emergenresearch.com/blog/top-10-leading-digital-payment-companies-in-the-world
 
 
 
