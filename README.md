@@ -75,8 +75,27 @@ The market size of Block Inc.'s customers can also be influenced by the competit
 
 ### What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilise?)
 
+While many of its competitors offer blockchain-based solutions, Block Inc has developed a blockchain-based platform that combines the benefits of blockchain technology with cloud computing. This allows for faster, more secure, and more versatile solutions than what its competitors can offer.
+
+One of the key advantages of Block Inc's platform is its scalability. The platform is designed to be highly flexible and can be easily customized to meet the needs of businesses of all sizes. This makes it an ideal solution for small businesses, startups, and large enterprises alike.
+
+Another advantage of Block Inc's platform is its reliability. The platform is built using the latest technology and is designed to be highly resistant to hacking and other cyber threats. This ensures that businesses can rely on the platform to keep their data safe and secure at all times.
+
+Block Inc's platform is also very easy to use. The company has developed a user-friendly interface that makes it easy for businesses to get started using the platform. This means that businesses can start using the platform quickly and easily, without the need for extensive training or technical expertise.
+
+Finally, Block Inc's platform is highly customizable. The platform can be easily tailored to meet the specific needs of businesses in different industries. This makes it an ideal solution for businesses that need highly specialized solutions that are not available from off-the-shelf software.
+
+Overall, Block Inc's unique combination of blockchain technology and cloud computing, along with its focus on scalability, reliability, ease of use, and customization, sets it apart from its competitors and makes it a top choice for businesses looking for cutting-edge solutions.
+
 ### Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like StackShare to find this information.)
 
+Block inc. uses a variety of technologies to power its platform and provide its services. Here are some of the technologies that they are currently using:
+
+1.	Blockchain: Block Inc's platform is built on top of blockchain technology. The company uses a distributed ledger to store data and transactions, which makes the platform highly secure and resistant to hacking.
+2.	Cloud Computing: Block Inc combines blockchain technology with cloud computing to provide faster and more versatile solutions than its competitors. The platform uses cloud computing resources to provide fast and reliable access to data and computing power.
+3.	Smart Contracts: Block Inc uses smart contracts to automate transactions and enforce the rules of the platform. Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. This allows for fast and secure transactions without the need for intermediaries.
+4.	Cryptography: Block Inc uses advanced cryptography to secure the platform and protect user data. The platform uses encryption to protect data at rest and in transit, and it uses public and private keys to authenticate users and secure transactions.
+5.	Machine Learning: Block Inc is exploring the use of machine learning to improve its platform's functionality and provide better insights to its customers. The company is using machine learning algorithms to analyse transaction data and identify patterns that can be used to improve business operations.
 
 ## Landscape
 
