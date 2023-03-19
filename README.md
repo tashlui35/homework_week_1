@@ -15,6 +15,8 @@ Block Inc was incorporated in February 2009.
 
 Block inc. was founded by Jack Dorsey and Jim McKelvey in Chicago, Illinois. 
 
+![Image]( https://images.wsj.net/im-189675/?width=860&height=573)
+
 ### How did the idea for the company (or project) come about?
 
 The idea for Block Inc came about when a group of tech enthusiasts and blockchain experts noticed the growing interest in cryptocurrencies, but also recognized that the accessibility and usability of these digital assets was still very limited. They saw that many people were interested in investing in cryptocurrencies, but were hesitant due to the complexity of buying, storing and managing these assets.
