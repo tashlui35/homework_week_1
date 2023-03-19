@@ -91,11 +91,24 @@ Overall, Block Inc's unique combination of blockchain technology and cloud compu
 
 Block inc. uses a variety of technologies to power its platform and provide its services. Here are some of the technologies that they are currently using:
 
-1.	Blockchain: Block Inc's platform is built on top of blockchain technology. The company uses a distributed ledger to store data and transactions, which makes the platform highly secure and resistant to hacking.
-2.	Cloud Computing: Block Inc combines blockchain technology with cloud computing to provide faster and more versatile solutions than its competitors. The platform uses cloud computing resources to provide fast and reliable access to data and computing power.
-3.	Smart Contracts: Block Inc uses smart contracts to automate transactions and enforce the rules of the platform. Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. This allows for fast and secure transactions without the need for intermediaries.
-4.	Cryptography: Block Inc uses advanced cryptography to secure the platform and protect user data. The platform uses encryption to protect data at rest and in transit, and it uses public and private keys to authenticate users and secure transactions.
-5.	Machine Learning: Block Inc is exploring the use of machine learning to improve its platform's functionality and provide better insights to its customers. The company is using machine learning algorithms to analyse transaction data and identify patterns that can be used to improve business operations.
+<ol>
+<li>
+Blockchain: Block Inc's platform is built on top of blockchain technology. The company uses a distributed ledger to store data and transactions, which makes the platform highly secure and resistant to hacking.
+</li>
+<li>
+Cloud Computing: Block Inc combines blockchain technology with cloud computing to provide faster and more versatile solutions than its competitors. The platform uses cloud computing resources to provide fast and reliable access to data and computing power.
+</li>
+<li>
+Smart Contracts: Block Inc uses smart contracts to automate transactions and enforce the rules of the platform. Smart contracts are self-executing contracts with the terms of the agreement between buyer and seller being directly written into lines of code. This allows for fast and secure transactions without the need for intermediaries.
+</li>
+<li>
+Cryptography: Block Inc uses advanced cryptography to secure the platform and protect user data. The platform uses encryption to protect data at rest and in transit, and it uses public and private keys to authenticate users and secure transactions.
+</li>
+<li>
+Machine Learning: Block Inc is exploring the use of machine learning to improve its platform's functionality and provide better insights to its customers. The company is using machine learning algorithms to analyse transaction data and identify patterns that can be used to improve business operations.
+</li>
+</ol>
+
 
 ## Landscape
 
