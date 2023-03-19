@@ -1,13 +1,11 @@
 # Square Case Study
-![Image](https://block.xyz/images/shared/social-share.png)
+<img src="https://block.xyz/images/shared/social-share.png" height="75%">
 
 ## Overview and Origin
 
 ### What is the name of the company?
 
 Block Inc. (formally Square inc.) is a well-known blockchain consulting and investment company. The company has quickly become one of the most prominent players in the blockchain industry, with a wide range of businesses within its portfolio. Square, Cash app, Spiral and Tidal make up this financial conglomerate. 
-
-<img src="https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ihf_iRYwr_G4/v0/1200x-1.jpg" height="400px">
 
 ### When was the company incorporated?
 
