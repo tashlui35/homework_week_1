@@ -190,23 +190,60 @@ Some suggestions for products or services that could be valuable for Block Inc. 
 
 <ol>
 <li>
-Cross-border Payments: There is a growing need for affordable and efficient cross-border payment solutions, particularly in emerging markets. Block Inc could explore the development of cross-border payment capabilities for Cash App that leverage blockchain technology to enable fast and secure transactions as they are only available in the US and UK. Current examples for this include Wise, Revolut, Remitly, OFX and Western Union. Wise is seen as a good option for cross-border payments as there are low transparent fees and have a mid-market exchange rate. It is also fully regulated by global regulatory bodies around the world. It can be used for one off or recurring international payments which could be used for personal or business customers.
+Cross-border Payments: Current examples for this include Wise, Revolut, Remitly, OFX and Western Union. Wise is seen as a good option for cross-border payments as there are low transparent fees and have a mid-market exchange rate. It is also fully regulated by global regulatory bodies around the world. It can be used for one off or recurring international payments which could be used for personal or business customers.
+
 </li>
 <li>
-Financial Education: There is a significant need for financial education and literacy, particularly in emerging markets. Block Inc could develop educational resources that help users to better understand financial concepts and manage their finances effectively. Current examples of this include World of Money, Zogo, Investmate and Penny | Master Your Money. World of Money is a financial literacy app which has content for users of all ages. It consists of video modules with quizzes at the end of each.
+Financial Education: Current examples of this include World of Money, Zogo, Investmate and Penny | Master Your Money. World of Money is a financial literacy app which has content for users of all ages. It consists of video modules with quizzes at the end of each.
 </li>
 <li>
-Blockchain-Based Identity Verification: Identity verification is a critical component of many financial transactions, but traditional verification methods can be slow, expensive, and prone to fraud. Block Inc could develop a blockchain-based identity verification solution that provides a secure, fast, and cost-effective way to verify user identities. This could be particularly valuable in markets where identity verification is a major challenge. A current example of this being used is by Consensys. This can be done through using decentralised identifiers, identity management and embedded encryption. Users create a digital identity through the use of personal information that has been created through their actions online. This may be linked to a device’s IP address or data points such as medical history, date of birth or usernames and passwords. A decentralised identifier is a pseudo-anonymous identifier which is secured by a private key. One person is able to have more than one decentralised identifier but only those who own the private key can prove they own their identity.
+Blockchain-Based Identity Verification: A current example of this being used is by Consensys. Consensys offers a range of blockchain solutions, services, and products designed to help businesses and governments build decentralized applications (dApps) and blockchain-based infrastructure.
 </li>
 </ol>
 
-Overall, these are just a few suggestions for products or services that could be valuable for a financial services and digital payments company like Block Inc. The specific offerings that would be most valuable for Block Inc will depend on a range of factors, including market demand, competitive landscape, and the company's own strengths and capabilities.
-
 ### Why do you think that offering this product or service would benefit the company?
+
+<ol>
+<li>
+Cross-border Payments: There is a growing need for affordable and efficient cross-border payment solutions, particularly in emerging markets. Block Inc could explore the development of cross-border payment capabilities for Cash App that leverage blockchain technology to enable fast and secure transactions as they are only available in the US and UK. 
+</li>
+<li>
+Financial Education: There is a significant need for financial education and literacy, particularly in emerging markets. Block Inc could develop educational resources that help users to better understand financial concepts and manage their finances effectively. 
+</li>
+<li>
+Blockchain-Based Identity Verification: Identity verification is a critical component of many financial transactions, but traditional verification methods can be slow, expensive, and prone to fraud. Block Inc could develop a blockchain-based identity verification solution that provides a secure, fast, and cost-effective way to verify user identities. This could be particularly valuable in markets where identity verification is a major challenge. 
+</li>
+</ol>
 
 ### What technologies would this additional product or service utilise?
 
+<ol>
+<li>
+Cross-border Payments: They can use blockchain or machine learning algorithms.
+</li>
+<li>
+Financial Education: This app can include features such as quizzes, games, budgeting assistance, and personalised notifications and alerts. It can use technologies such as data analytics, artificial intelligence, and machine learning.
+</li>
+<li>
+Blockchain-Based Identity Verification: This can be done through using decentralised identifiers, identity management and embedded encryption.
+</li>
+</ol>
+
 ### Why are these technologies appropriate for your solution?
+
+<ol>
+<li>
+Cross-border Payments: One such technology is blockchain, which enables instant payments, enhances transparency, and reduces costs. By eliminating intermediaries and providing end-to-end traceability of payment-related data, blockchain networks offer significant advantages over traditional cross-border payment systems. Blockchain's distributed ledger technology ensures transparency, security, and immutability, making it ideal for cross-border payments. Participants can interact with a blockchain to make, receive, and monitor payments via role-specific web and mobile applications. With blockchain, cross-border payments can be processed in seconds rather than days, and transaction processing costs can be reduced by 40-80%. As a result, industries such as banking and international development organizations are adopting blockchain technology to enhance the efficiency and cost-effectiveness of cross-border payments. Additionally, some cross-border payments apps use machine learning algorithms to detect and prevent fraud, enhance security, and improve user experience. By analysing large amounts of payment-related data, machine learning algorithms can identify fraudulent transactions in real-time and prevent them from going through. Machine learning can also be used to personalize the user experience, providing customized payment options and recommendations based on user behaviour and preferences. Additionally, machine learning can optimize payment routing by predicting the fastest and most cost-effective payment routes for cross-border transactions. As a result, cross-border payment apps can use machine learning to enhance security, improve user engagement, and reduce payment processing times and costs.
+</li>
+<li>
+Financial Education: Data analytics, artificial intelligence (AI), and machine learning (ML) are essential technologies that can be used to enhance the effectiveness of financial literacy apps. Data analytics can be utilized to provide insights into user behaviour, which can then be used to personalize learning experiences and improve engagement. AI and ML can be used to provide personalized financial advice and recommendations, as well as identify areas where the user needs more education to improve their financial literacy. Additionally, AI and ML can be used to power automated budgeting and investment tools, which can help users make informed financial decisions. Furthermore, data analytics, AI, and ML can be used to track user progress and provide feedback, which can motivate users to continue their financial education journey. Overall, these technologies enable financial literacy apps to provide an effective and personalized learning experience, which can ultimately lead to improved financial decision-making skills and outcomes.
+</li>
+<li>
+Blockchain-Based Identity Verification: Decentralized Identifiers (DIDs), identity management, and embedded encryption are critical components of Blockchain-based identity verification systems. DIDs are a type of identifier that is globally unique, decentralized, and cryptographically verifiable. They enable individuals and organizations to own and control their digital identities, as well as authenticate and authorize access to their personal information. Identity management systems built on Blockchain enable secure and transparent management of identity-related data, which can reduce the risk of identity theft and fraud. Additionally, embedded encryption in Blockchain-based identity verification systems ensures that personal information is securely stored and transmitted, which enhances data privacy and security. By combining DIDs, identity management, and embedded encryption, Blockchain-based identity verification systems can provide a secure, transparent, and decentralized solution for identity verification, which can be used in various sectors, including finance, healthcare, and government.
+</li
+</ol>
+
+Overall, these are just a few suggestions for products or services that could be valuable for a financial services and digital payments company like Block Inc. The specific offerings that would be most valuable for Block Inc will depend on a range of factors, including market demand, competitive landscape, and the company's own strengths and capabilities.
 
 
 ## Links
@@ -225,6 +262,17 @@ Overall, these are just a few suggestions for products or services that could be
 * https://fitsmallbusiness.com/what-is-square/
 * https://www.pwc.com/gx/en/industries/financial-services/publications/financial-services-in-2025/payments-in-2025.html
 * https://www.emergenresearch.com/blog/top-10-leading-digital-payment-companies-in-the-world
-
-
-
+* https://www.netsuite.com.au/portal/au/resource/articles/financial-management/small-business-financial-metrics.shtml
+* https://www.fool.com.au/2022/10/14/down-49-this-year-heres-why-im-still-holding-my-block-shares/
+* https://www.bloomberg.com/news/articles/2022-08-04/block-transactions-miss-estimates-following-decline-in-bitcoin
+* https://s29.q4cdn.com/628966176/files/doc_financials/2022/ar/Block-Annual-Report-2022.pdf
+* https://csimarket.com/stocks/compet_glance.php?code=SQ
+* https://www.exiap.com/guides/best-international-money-transfer-app#:~:text=Revolut%3A%20hold%20and%20exchange%2025,you%20need%20a%20more%20personal
+* https://www.fool.com/the-ascent/personal-finance/financial-literacy-apps/
+* https://consensys.net/blockchain-use-cases/digital-identity/
+* https://www.jpmorgan.com/solutions/treasury-payments/insights/digital-innovation-transforming-cross-border-payments
+* https://www.imf.org/en/News/Articles/2017/11/01/sp103017-fintech-and-cross-border-payments
+* https://www.aciworldwide.com/cross-border-payment-processing
+* https://www.scnsoft.com/blockchain/cross-border-payments
+* https://www.zeeve.io/blog/blockchain-in-cross-border-payments-a-game-changer/
+* https://blogs.oracle.com/financialservices/post/how-blockchain-works-in-cross-border-payments-
