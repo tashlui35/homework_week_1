@@ -94,6 +94,7 @@ Block inc. uses a variety of technologies to power its platform and provide its 
 <p align="center">
   <img height="300px" src="https://www2.deloitte.com/content/dam/Deloitte/us/Images/promo_images/us-promos/infocus-payments-trends-mobile-hand-promo.jpg">
 </p>
+
 ### What domain of the financial industry is the company in?
 
 Block Inc is in the financial services and digital payments industry. The company provides a range of payment processing and financial services to small and medium-sized businesses, including tools that enable sellers to accept card payments, reporting and analytics, and next-day settlement. In addition to its payment’s platform, the company also offers Cash App, a mobile app for monetary transfers, as well as other businesses such as Weebly, a web hosting service, and Tidal, a subscription-based music, podcast, and video streaming service. Overall, Block Inc's focus is on providing innovative and efficient financial solutions to businesses and consumers alike.
