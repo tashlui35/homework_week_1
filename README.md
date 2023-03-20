@@ -81,7 +81,7 @@ Finally, Block Inc's platform is highly customizable and very easy to use. The p
 Block inc. uses a variety of technologies to power its platform and provide its services. Here are some of the technologies that they are currently using:
 <ol>
 <li>
-__Blockchain__: Block Inc's platform is built on top of blockchain technology. The company uses a distributed ledger to store data and transactions, which makes the platform highly secure and resistant to hacking.
+**Blockchain:** Block Inc's platform is built on top of blockchain technology. The company uses a distributed ledger to store data and transactions, which makes the platform highly secure and resistant to hacking.
 </li>
 <li>
 __Cloud Computing__: Block Inc combines blockchain technology with cloud computing to provide faster and more versatile solutions than its competitors. The platform uses cloud computing resources to provide fast and reliable access to data and computing power.
